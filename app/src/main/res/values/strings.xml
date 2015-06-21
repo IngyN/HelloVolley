@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelloVolley</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_get">Simple GET Request</string>
+    <string name="title_activity_post">Simple POST Request</string>
+    <string name="title_activity_image">Image Request</string>
+    <string name="title_activity_json">JSON Request</string>
+    <string name="title_activity_custom">Custom Request</string>
+
+</resources>
